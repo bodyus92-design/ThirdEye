@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ThirdEye" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">#ECE8E1</item>
+        <item name="android:statusBarColor">#ECE8E1</item>
+        <item name="android:navigationBarColor">#ECE8E1</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
